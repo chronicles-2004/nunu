@@ -6,9 +6,9 @@ const SITE_CONFIG = {
      AUTHENTICATION DATES
   ----------------------------------------- */
 
-  birthday: "25/09/2005",
+  birthday: "25.09.2005",
 
-  firstMeeting: "03/05/2026",
+  firstMeeting: "03.05.2026",
 
 
   /* -----------------------------------------
